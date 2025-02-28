@@ -51,13 +51,13 @@
 
 <h3 align="center"> 🐶My Farm 🐶</h3>
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SRASONY&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/SRASONY"
-    width="600"
-    height="300"
-  />
-  </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SRASONY&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SRASONY"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 <h3 align="center">💌 Contact 💌</h3>
